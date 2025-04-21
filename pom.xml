@@ -568,8 +568,8 @@
     
          
      <repository>
-   <id>maven-releases</id>
-   <name>maven-releases</name>
+   <id>maven-snapshots</id>
+   <name>maven-snapshots</name>
    <url>http://192.168.230.128:8081/repository/maven-snapshots/</url>
  </repository>
 </repositories>        
